@@ -316,3 +316,8 @@
 /home/azizbek/github/MyApiProject/obj/Debug/net9.0/MyApiProject.pdb
 /home/azizbek/github/MyApiProject/obj/Debug/net9.0/MyApiProject.genruntimeconfig.cache
 /home/azizbek/github/MyApiProject/obj/Debug/net9.0/ref/MyApiProject.dll
+/home/azizbek/github/MyApiProject/obj/Debug/net9.0/MyApiProject.sourcelink.json
+/home/azizbek/github/MyApiProject/bin/Debug/net9.0/Microsoft.AspNetCore.JsonPatch.dll
+/home/azizbek/github/MyApiProject/bin/Debug/net9.0/Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+/home/azizbek/github/MyApiProject/bin/Debug/net9.0/Newtonsoft.Json.dll
+/home/azizbek/github/MyApiProject/bin/Debug/net9.0/Newtonsoft.Json.Bson.dll
